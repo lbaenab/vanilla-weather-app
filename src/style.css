@@ -1,1 +1,23 @@
+h1 {
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
 
+h2 {
+  font-size: 25px;
+}
+
+.temperature {
+  font-size: 90px;
+}
+
+.units {
+  position: relative;
+  margin-top: 30px;
+}
+
+h6 {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 50px;
+}
